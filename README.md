@@ -1,8 +1,6 @@
-# Data-Processing
-Day-wise Python exercises for Samsung Innovation Campus Coding &amp; Programming, Chapter 7: Data Processing, Descriptive Statistics, and Data Visualization.
-# Samsung Innovation Campus — Chapter 7
+# Data Processing
 
-Daily Python exercises from the Samsung Innovation Campus Coding & Programming course.
+Daily Python exercises for Samsung Innovation Campus Coding & Programming, Chapter 7.
 
 ## Chapter 7: Data Processing
 
@@ -10,8 +8,8 @@ This chapter covers data processing, descriptive statistics, and data visualizat
 
 ## Repository structure
 
-- `Day1/` — Day 1 practice files
-- `Day2/` — Day 2 work and upcoming exercises
+- `Day1/` - Day 1 practice files
+- `Day2/` - Day 2 work and upcoming exercises
 
 ## Topics and tools
 

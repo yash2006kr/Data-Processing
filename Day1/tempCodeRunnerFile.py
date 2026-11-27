@@ -1,0 +1,1 @@
+print(series[2])
